@@ -6,7 +6,7 @@
 
 <br/>
 
-[Dogman Labs](http://DogmanLabs.com) is a research, development, and media lab working closely with blockchain technologies and Web3 communities to make the best experiences possible for everyone in the world 🌎
+[Dogman Labs](http://DogmanLabs.com) is a research, development, and media lab working closely with blockchain technologies and Web3 communities to make the best experiences possible for everyone in the world! 🌎
 
 <br/>
 
