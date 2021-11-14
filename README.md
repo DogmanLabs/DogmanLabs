@@ -1,4 +1,4 @@
-Welcome to Dogman Labs!
+# Welcome to Dogman Labs!
 
 <br/>
 
@@ -10,7 +10,7 @@ Dogman Labs is a research, development, and media lab working closely with block
 
 <br/>
 
-More details coming soon! 🐶
+Much more coming soon! 🐶
 
 <br/>
 
